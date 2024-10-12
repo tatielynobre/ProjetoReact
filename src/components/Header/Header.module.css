@@ -1,0 +1,25 @@
+.header{
+    background-color:#060506;
+    border-bottom: 5px solid #5c0078;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    display: flex;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+    align-items: center;
+    justify-content: space-between;
+}
+.header span{
+    font-size: 2rem;
+    color:#5c0078;
+    font-weight: 400;
+}
+.header nav{
+    margin-right: 1rem;
+}
+.header a{
+    text-decoration: none;
+    color: aliceblue;
+    padding-inline: 0.5rem;
+}
